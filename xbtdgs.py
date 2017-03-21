@@ -1,6 +1,6 @@
 a=input()
 if a=='xbt':
-    print('nh xbt')
+    print('nh xbt!')
 else:
         print('you age?')
         age=input()
