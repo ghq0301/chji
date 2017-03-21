@@ -1,0 +1,10 @@
+#This program says hello and asks for my name.
+print('你好')
+print('你叫是什么?')
+myName=input()
+print('很高兴遇见你 '+myName)
+print('你名字长度:')
+print(len(myName))
+print('你多大了?')
+myAge=input()
+print('你明年'+str(int(myAge)+1)+'岁。')
