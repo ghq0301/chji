@@ -1,8 +1,10 @@
-a=input()
+a=input('name;')
 if a=='xbt':
     print('nh xbt!')
-else:
-        print('you age?')
-        age=input()
 elif age<15:
-        print('you are not xbt')
+    print('you age?')
+    age=input()
+
+    print('you are not xbt')
+else:
+
